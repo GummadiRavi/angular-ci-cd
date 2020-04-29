@@ -34,3 +34,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
    4 git add .
    5 git commit -m "remove files"
    6 git push
+   7 git checkout master
