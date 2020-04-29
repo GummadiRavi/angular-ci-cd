@@ -28,11 +28,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ## git commands to create empty branch
-1 git fetch origin gh-pages
-   2 git checkout gh-pages
-   3 git rm -rf .
-   4 git add .
-   5 git commit -m "remove files"
-   6 git push
-   7 git checkout master
+git fetch origin gh-pages
+git checkout gh-pages
+git rm -rf .
+git add .
+git commit -m "remove files"
+git push
+git checkout master
    
